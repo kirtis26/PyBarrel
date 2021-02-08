@@ -1,3 +1,3 @@
 # PyBarrel
 Проектирование ствола моноблока
-![itog](https://ibb.co/51JzVhb)
+![itog](https://i.ibb.co/kGPrF2N/image.png)
